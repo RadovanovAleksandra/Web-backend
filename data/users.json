@@ -1,0 +1,27 @@
+[
+  {
+    "username": "pacijent1",
+    "password": "123456",
+    "role": "Pacijent",
+    "name": "Marko Marković",
+    "jmbg": "0101992123456",
+    "email": "marko@example.com",
+    "appointments": []
+  },
+  {
+    "username": "lekar1",
+    "password": "654321",
+    "role": "Lekar",
+    "name": "Ana Anić",
+    "jmbg": "0202993123456",
+    "email": "ana@example.com",
+    "appointments": []
+  },
+  {
+    "username": "admin",
+    "password": "admin_password",
+    "email": "admin@example.com",
+    "jmbg": "1234567890123",
+    "role": "Administrator"
+}
+]
